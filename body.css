@@ -7,11 +7,8 @@ h1 {
     color: navy;
 }
 
-p {
-    color: solid black;
-}
 
-button {
+button { /*no implementado todavia*\ 
     background-color: blue;
     color: white;
     padding: 10px;
@@ -19,6 +16,6 @@ button {
     transition: background-color 0.5s ease;
 }
 
-button:hover {
+button:hover {/*no implementado todavia igual que arriva*\ 
     background-color: red;
 }
