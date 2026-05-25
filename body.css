@@ -7,15 +7,12 @@ h1 {
     color: navy;
 }
 
-
-button { /*no implementado todavia*\ 
-    background-color: blue;
-    color: white;
-    padding: 10px;
-    border: none;
-    transition: background-color 0.5s ease;
+#princpal { /* la foto principal de la pag */
+    width: 350px;
+    border-radius: 20px;
 }
 
-button:hover {/*no implementado todavia igual que arriva*\ 
-    background-color: red;
+#secundaria{
+    width: 120px;
 }
+
